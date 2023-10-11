@@ -1,4 +1,4 @@
-# LearnGit
+# github for developers course 
 Used to learn Github for beginners
 
 ## Learngit I Kuayyyyy
